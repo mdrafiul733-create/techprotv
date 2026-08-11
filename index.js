@@ -4,7 +4,7 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
   // ধাপ ১ থেকে কপি করা আপনার গিটহাবের আসল Raw আইপিটিভি লিংকটি নিচের লাইনে বসাবেন
-  const githubRawUrl = 'https://raw.githubusercontent.com/techpro-iptv/techpro/refs/heads/main/techpro.m3u';
+  const githubRawUrl = 'https://raw.githubusercontent.com/mdrafiul733-create/techprotv/refs/heads/main/techpro.m3u';
 
   try {
     const response = await fetch(githubRawUrl);
