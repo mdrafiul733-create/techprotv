@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sJiYzV2YgX_PRJpquSTwMk-bBEldPyenTarnNuKqmw&s" group-title="Bangladeshi",Asian TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7KJnBPILomAHOaxiAEFK0nDMzQlmFD84N6kwkr2Vdg&s=10" group-title="Bangladeshi",ATN NEWS
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lJaH5NV32QzE57mhYv9lNLSXENtU_8AkMx9xttXmyDwQiEE2lBZb9sVORcwMlemkAhs6Mnxl-jpNyysn1bK4EA=w240-h480-rw" group-title="Bangladeshi",Bangla 1
 https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sJiYzV2YgX_PRJpquSTwMk-bBEldPyenTarnNuKqmw&s" group-title="Bangladeshi",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Bangladeshi",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
